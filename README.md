@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @seppensamadayo
 - 👀 I’m interested in Aviation, Data Analysis and Languages.
 - 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 LinkedIn: https://www.linkedin.com/in/yagmurberfinyilmaz/
